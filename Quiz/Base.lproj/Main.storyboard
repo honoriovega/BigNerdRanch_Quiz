@@ -41,21 +41,14 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="TRr-Ut-Cyh" firstAttribute="top" secondItem="vQ1-yc-yhS" secondAttribute="bottom" constant="97" id="0UT-9U-uxv"/>
-                            <constraint firstItem="b01-Hf-nC8" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="0fc-B7-c9D"/>
-                            <constraint firstItem="j1h-ra-A9Q" firstAttribute="top" secondItem="TRr-Ut-Cyh" secondAttribute="bottom" constant="8" id="PH8-0a-eof"/>
-                            <constraint firstItem="vQ1-yc-yhS" firstAttribute="top" secondItem="b01-Hf-nC8" secondAttribute="bottom" constant="8" id="Vck-G9-uQg"/>
-                            <constraint firstItem="TRr-Ut-Cyh" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="WUw-VH-Aix"/>
-                            <constraint firstItem="b01-Hf-nC8" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Yoj-IA-TXt"/>
-                            <constraint firstItem="vQ1-yc-yhS" firstAttribute="top" secondItem="b01-Hf-nC8" secondAttribute="bottom" constant="8" id="dPb-HE-t1E"/>
-                            <constraint firstItem="b01-Hf-nC8" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="79" id="eQb-h2-3mK"/>
-                            <constraint firstItem="j1h-ra-A9Q" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="egf-d8-SaZ"/>
-                            <constraint firstItem="TRr-Ut-Cyh" firstAttribute="top" secondItem="vQ1-yc-yhS" secondAttribute="bottom" constant="97" id="fnY-5V-et7"/>
-                            <constraint firstItem="TRr-Ut-Cyh" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="jTn-wp-4Xq"/>
-                            <constraint firstItem="b01-Hf-nC8" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="pOw-3H-Mvt"/>
-                            <constraint firstItem="j1h-ra-A9Q" firstAttribute="top" secondItem="TRr-Ut-Cyh" secondAttribute="bottom" constant="8" id="riR-AJ-eLo"/>
-                            <constraint firstItem="j1h-ra-A9Q" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="tHC-vt-cih"/>
-                            <constraint firstItem="b01-Hf-nC8" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="79" id="zgW-kR-mTs"/>
+                            <constraint firstItem="vQ1-yc-yhS" firstAttribute="top" secondItem="b01-Hf-nC8" secondAttribute="bottom" constant="8" id="AMs-Rh-4ys"/>
+                            <constraint firstItem="TRr-Ut-Cyh" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="OOC-rf-49a"/>
+                            <constraint firstItem="TRr-Ut-Cyh" firstAttribute="top" secondItem="vQ1-yc-yhS" secondAttribute="bottom" constant="97" id="PCy-ca-Ayv"/>
+                            <constraint firstItem="b01-Hf-nC8" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="QEv-55-w4e"/>
+                            <constraint firstItem="j1h-ra-A9Q" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="g3e-bX-amw"/>
+                            <constraint firstItem="b01-Hf-nC8" firstAttribute="centerX" secondItem="vQ1-yc-yhS" secondAttribute="centerX" id="hJo-Bx-YHq"/>
+                            <constraint firstItem="j1h-ra-A9Q" firstAttribute="top" secondItem="TRr-Ut-Cyh" secondAttribute="bottom" constant="8" id="jdH-6i-iqj"/>
+                            <constraint firstItem="b01-Hf-nC8" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="79" id="lcn-id-zLy"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
