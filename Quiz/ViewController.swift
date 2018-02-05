@@ -23,6 +23,12 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    @IBAction func showNextQuestion(_ sender: UIButton) {
+        
+    }
+    
+    @IBAction func showAnswer(_ sender: UIButton) {
+        
+    }
 }
 
